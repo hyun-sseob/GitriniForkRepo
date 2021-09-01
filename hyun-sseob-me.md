@@ -13,3 +13,4 @@ Air bnb가 제 Pull Request를 Approve한다면 50%는 shinplest 지분입니다
 Since 2021-08-31.
 
 + slack에 연동하기 테스트 ⭐️
++ slack 두번 테스트 !
